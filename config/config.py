@@ -1,0 +1,6 @@
+MODEL_PATH = "yolov8n.pt"
+
+CONFIDENCE_THRESHOLD = 0.4
+CAMERA_INDEX = 0
+SAVE_OUTPUT = False
+OUTPUT_PATH = "output/results.mp4"
