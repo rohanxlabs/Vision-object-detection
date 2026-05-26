@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 certifi            
 charset-normalizer 
 contourpy          
@@ -35,3 +36,8 @@ ultralytics
 ultralytics-thop 
 urllib3
 streamlit
+=======
+altair
+pandas
+streamlit
+>>>>>>> 50ba9c6db4d308ca7832959acde31d9bb21fbf93
