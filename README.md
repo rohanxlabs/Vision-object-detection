@@ -1,3 +1,12 @@
+---
+title: Vision Object Detection
+emoji: 👁️
+colorFrom: blue
+colorTo: cyan
+sdk: docker
+app_file: app.py
+pinned: false
+---
 👁️ Vision Object Detection System
 
 ⚡ Real-Time Object Detection using Computer Vision
