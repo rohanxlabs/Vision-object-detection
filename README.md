@@ -9,6 +9,8 @@ pinned: false
 ---
 👁️ Vision Object Detection System
 
+live link : https://huggingface.co/spaces/rohanxlabs/vision-object-detection
+
 ⚡ Real-Time Object Detection using Computer Vision
 
 <p align="center">
