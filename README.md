@@ -1,12 +1,3 @@
----
-title: Vision Object Detection
-emoji: 👁️
-colorFrom: blue
-colorTo: cyan
-sdk: docker
-app_file: app.py
-pinned: false
----
 👁️ Vision Object Detection System
 
 live link : https://huggingface.co/spaces/rohanxlabs/vision-object-detection
